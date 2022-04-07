@@ -1,5 +1,5 @@
 # AWSSearchFaces-master
- Face Detection using AWS Face Rekognition
+> Face Detection using AWS Face Rekognition
  That Python code is a bunch of functions which does
 1. Create new collection (faces/ objects)
 2. Add/remove new faces
